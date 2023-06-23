@@ -1,6 +1,7 @@
 {
-  "name": "https://Konstantin01147.github.io/myProject",
+  "name": "myProject",
   "version": "0.1.0",
+  "homepage": "https://Konstantin01147.github.io/myProject",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.9.3",
